@@ -53,6 +53,7 @@ main {
     border-radius: 30px;
     background-color: white;
     font-weight: bold;
+    cursor: pointer;
 }
 
 .div input:focus {
